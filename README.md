@@ -14,3 +14,4 @@
 - [ ] [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) various language syntax; see website for configuring other actions like move, swap, etc. _I didn't implement in mine._
 - [ ] [which-key](https://github.com/folke/which-key.nvim) show keyboard shortcuts
 - [ ] [fzflua](https://github.com/ibhagwan/fzf-lua) fuzzy find files (better than telescope)
+- [ ] [project](https://github.com/ahmedkhalf/project.nvim) cd to root directory of project you're in at startup
