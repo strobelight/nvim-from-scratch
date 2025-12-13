@@ -11,4 +11,5 @@
 - [ ] [vim-sleuth](https://github.com/tpope/vim-sleuth) automatically adjusts tab settings
 - [ ] editorconf
 - [ ] [showkeys](https://github.com/nvzone/showkeys) for showing what keypresses made
-- [ ] [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) various language syntax
+- [ ] [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) various language syntax; see website for configuring other actions like move, swap, etc. _I didn't implement in mine._
+- [ ] [which-key](https://github.com/folke/which-key.nvim) show keyboard shortcuts
