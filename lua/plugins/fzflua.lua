@@ -21,6 +21,14 @@ return {
     { "<leader>fc",
       function() require('fzf-lua').files({cwd = vim.fn.stdpath("config")}) end,
       desc = "Find configuration files"
+    },
+    { "<leader>fh",
+      function() require('fzf-lua').helptags() end,
+      desc = "Find help"
+    },
+    { "<leader>fk",
+      function() require('fzf-lua').keymaps() end,
+      desc = "Find keymaps"
     }
   }
 }
