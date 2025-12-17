@@ -29,6 +29,14 @@ return {
     { "<leader>fk",
       function() require('fzf-lua').keymaps() end,
       desc = "Find keymaps"
+    },
+    { "<leader>fH",
+      function() require('fzf-lua').files({cwd = vim.fn.getenv("HOME")}) end,
+      desc = "Find from HOME directory"
+    },
+    { "<leader>fb",
+      function() require('fzf-lua').buffers() end,
+      desc = "Show buffers"
     }
   }
 }

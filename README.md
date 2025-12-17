@@ -15,3 +15,6 @@
 - [ ] [which-key](https://github.com/folke/which-key.nvim) show keyboard shortcuts
 - [ ] [fzflua](https://github.com/ibhagwan/fzf-lua) fuzzy find files (better than telescope)
 - [ ] [project](https://github.com/ahmedkhalf/project.nvim) cd to root directory of project you're in at startup
+- [ ] LSP (language server protocol); copy portion of kickstart.lua
+- [ ] Mason package manager for linters, lsps, etc
+- [ ] dressing.nvim (use snacks.nvim instead)
