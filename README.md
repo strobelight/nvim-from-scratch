@@ -18,3 +18,4 @@
 - [ ] LSP (language server protocol); copy portion of kickstart.lua
 - [ ] Mason package manager for linters, lsps, etc
 - [ ] dressing.nvim (use snacks.nvim instead)
+- [ ] [conform.nvim](https://github.com/stevearc/conform.nvim) code formatter
